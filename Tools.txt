@@ -21,3 +21,4 @@
 21. https://github.com/projectdiscovery/httpx
 22. https://github.com/projectdiscovery/naabu
 23. https://github.com/devploit/dontgo403
+24. https://github.com/ffuf/ffuf
